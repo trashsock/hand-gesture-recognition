@@ -6,3 +6,5 @@ You do not need to download the images, just use the URL in the code.
 If you want to download them, they will be downloaded as a ZIP file. There are 8 subfolders.
 Install all dependencies and run main.
 ```
+
+Read attached report for more information about the project, how I sourced the images, and the code.
