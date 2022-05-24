@@ -8,4 +8,4 @@ If you want to download them, they will be downloaded as a ZIP file. There are 8
 Install all dependencies and run main.
 ```
 
-Read attached report for more information about the project, how I sourced the images, and the code.
+For more information, read the attached report or contact at e1900278@edu.vamk.fi :)
